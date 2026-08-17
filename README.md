@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Nasr
 
-I'm an **Electrical Engineering** student at the **Schulich School of Engineering, University of Calgary**, pursuing a **minor in Computer Engineering**.
+I'm a student at the **Schulich School of Engineering, University of Calgary**, pursuing a **BSc in Electrical Engineering with a minor in Computer Engineering**.
 
 ## Featured projects
 - **RV32I 5-Stage CPU Core** — five-stage RISC-V pipeline with forwarding, load-use stalls, branch flushing, architectural checks and self-checking regression tests.
