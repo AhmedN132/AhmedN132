@@ -8,6 +8,6 @@ I'm a student at the **Schulich School of Engineering, University of Calgary**, 
 - **FPGA Matrix-Multiply Accelerator** — parameterized signed fixed-point matrix accelerator with parallel dot-product datapath, handshake control, reference-model verification and synthesis constraints.
 
 ## 📫 Connect
-- LinkedIn: `linkedin.com/in/YOUR-LINK`
+- LinkedIn: `https://www.linkedin.com/in/ahmed-a-nasr`
 - Email: `ahmed.a.nasr22@gmail.com`
 
